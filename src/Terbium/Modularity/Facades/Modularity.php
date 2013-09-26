@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Laraon/Modularity
+ * @package Terbium/Modularity
  * @author Volodimyr Terion Kornilov <mail@terion.name>
  * @copyright Copyright (c) 2013 by Terion
  * @license MIT
@@ -8,7 +8,7 @@
  * @access public
  */
 
-namespace Laraon\Modularity\Facades;
+namespace Terbium\Modularity\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

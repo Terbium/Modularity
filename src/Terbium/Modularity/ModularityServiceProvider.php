@@ -1,4 +1,4 @@
-<?php namespace Laraon\Modularity;
+<?php namespace Terbium\Modularity;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -19,7 +19,7 @@ class ModularityServiceProvider extends ServiceProvider {
 	public function boot()
 	{
 		// init the package
-		$this->package('laraon/modularity');
+		$this->package('terbium/modularity');
 		// run it
 		$this->app['modularity'];
 	}

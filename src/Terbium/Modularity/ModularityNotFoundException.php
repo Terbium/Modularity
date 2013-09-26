@@ -1,6 +1,6 @@
 <?php
 
-namespace Laraon\Modularity;
+namespace Terbium\Modularity;
 
 class ModularityNotFoundException extends \Exception {
 
